@@ -40,6 +40,6 @@ int main()
 	}
 		
 	cout << "max : " << max << endl;
-	cout << "min: "  << min << endl; 
+	cout << "min: "  << min << endl;
 	cout << "other " << other << endl;
 } 
